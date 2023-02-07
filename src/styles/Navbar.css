@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #674188
+}
+
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-size: 2rem;
+    color: #C3ACD0;
+    transition: font-size 0.5s;
+
+}
+
+.navbar-brand:hover{
+    color: #F7EFE5;
+    font-size: 3rem;
+}
+
+.nav-item{
+    margin: 15px;
+}
+
+.nav-link-{
+    font-size: 1.2rem;
+    color: #C3ACD0;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    transition: font-size 0.3s;
+}
+
+
+.nav-link-active{
+    font-size: 1.2rem;
+    color: #F7EFE5;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    transition: font-size 0.3s;
+    font-weight: bolder;
+
+}
+
+
+
+
+
+
+
